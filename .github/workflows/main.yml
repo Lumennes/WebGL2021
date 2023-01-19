@@ -17,7 +17,7 @@ jobs:
       fail-fast: false
       matrix:
         projectName:
-          - WebGL2022
+          - WebGL2021
         #cloudRunnerCluster:
         #  - local-docker
         #  - local
