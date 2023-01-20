@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 0e48462c02cd3bd4c9941d6f0ca247ef
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fbx Default Material
+    second: {fileID: 2100000, guid: 78b838e85f876824a8ffc5379b9893b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Skydome_01
+    second: {fileID: 2100000, guid: 8e05ee67f1ce55c4c9fedcde8259e780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Aspen_Tree_Lit_Blowing
+    second: {fileID: 2100000, guid: 081ba87ca8dd24a4e8b9d5931937235e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cave_Leaf_Piles_Wave
+    second: {fileID: 2100000, guid: 4d593d1d8ed6dab47822a0893048b83f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cave_Rock_Large02
+    second: {fileID: 2100000, guid: 548d6e9086952a4409d4d831870a19c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cave_Rock_Pillar_Moss2
+    second: {fileID: 2100000, guid: ff0ecc98ee2e1944f9de0b486fd3de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cave_Rock_Small_Moss
+    second: {fileID: 2100000, guid: 44ddf4c1a2faef648b8343aac9f6f850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cave_Rock_Small_Moss02
+    second: {fileID: 2100000, guid: 44de8768e29a47948b2f57fecd8a1410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_M_Cave_Rock_Bricks_Moss22
+    second: {fileID: 2100000, guid: 65ed079254138ce4cbe49edb753c78ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_M_Cave_Rock_Ceiling
+    second: {fileID: 2100000, guid: 8280098b9b46d1647a8d0a203ef1e668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_RippleFoam
+    second: {fileID: 2100000, guid: ebebb2059a8e4044d86b42ea806d8f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Soul_Leaves_Water
+    second: {fileID: 2100000, guid: 2e4b29ffecf5cc94e92c16b1f86e3769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Aspen_Tree_Bark
+    second: {fileID: 2100000, guid: 70c5995e16f38df43966adbdd2f94db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CaveLandscape_Inst
+    second: {fileID: 2100000, guid: b757689778e276040b1e34e9d622f570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cave_Leaf_Piles
+    second: {fileID: 2100000, guid: 6c0cad2fe0c21a84f88747e7ea505441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cave_RuneRocks01
+    second: {fileID: 2100000, guid: d029bea166a3dcc4e8d7baaec8654937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cave_Wood_Beam
+    second: {fileID: 2100000, guid: b4c4822b16422a6459b38504f9fd6dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ice_Fort_Iron_1_Glow
+    second: {fileID: 2100000, guid: 4959a0e3760b3af43a99fda71c5f1f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LV_SoulGrass_01M
+    second: {fileID: 2100000, guid: 810d03584c019e94fb64ef10d66a57ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LV_Soul_Grass04M
+    second: {fileID: 2100000, guid: 6123aa689eaeaa24b9de5879f4062cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PotionGlass
+    second: {fileID: 2100000, guid: f5d0ccecb950fa84aab2ed541d89ea05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PotionLiquid_Blue
+    second: {fileID: 2100000, guid: f6cf8f9aba899a74bb90bef58d07bc00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PotionLiquid_Green
+    second: {fileID: 2100000, guid: a4655d56677179f48a8c9e41f397fcb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Slums_Wood_
+    second: {fileID: 2100000, guid: 1e6467f607348f3448b43e23123348fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Soul_Bush
+    second: {fileID: 2100000, guid: 9aaa3711ad0f338438ad79f1b0f9844e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Soul_Leaves
+    second: {fileID: 2100000, guid: 3c54c34e4532d3f489bf7f3b68f26a45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Soul_Plants
+    second: {fileID: 2100000, guid: 037fff467c8687c4b9b09b9f0484b7f8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
